@@ -1,0 +1,1 @@
+c:\users\lucas\documents\visual studio 2013\Projects\MyBST\MyBST\bin\Debug\MyBST.exe.config

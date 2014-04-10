@@ -1,0 +1,6 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Sumatoria\Sumatoria\bin\Debug\Sumatoria.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\Sumatoria\Sumatoria\bin\Debug\Sumatoria.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Sumatoria\Sumatoria\bin\Debug\Sumatoria.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Sumatoria\Sumatoria\obj\Debug\Sumatoria.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\Sumatoria\Sumatoria\obj\Debug\Sumatoria.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Sumatoria\Sumatoria\obj\Debug\Sumatoria.pdb
