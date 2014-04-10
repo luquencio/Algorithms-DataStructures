@@ -1,0 +1,8 @@
+Instrucciones:
+* Implementen el codigo que falta en las secciones marcadas TODO
+* Eviten:
+   - renombrar las clases, variables, parametros, metodos, etc.
+   - modificar el codigo existente
+* Pueden agregar atributos, metodos, class/struct, etc.
+* Prohibido consultar Internet
+* Este laboratorio no es un trabajo en equipo, asi que no se permite colaborar

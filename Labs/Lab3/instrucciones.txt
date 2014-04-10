@@ -1,0 +1,16 @@
+Instrucciones:
+* Prohibido consultar en Internet (a menos que sea acerca de sintaxis)
+* Prohibido colaborar
+
+# Implementen el codigo que falta en las secciones marcadas TODO
+# Eviten:
+   - renombrar las clases, variables, parametros, metodos, etc.
+   - modificar el codigo existente
+# Pueden agregar atributos, metodos, class/struct, etc.
+
+# Para las secciones que dicen "BUG", identifiquen los defectos y corrijanlos
+   + describan los errores encontrados en un archivo de texto
+
+# La seccion que dice "ORD", reorden los statements A, B, C, ... para construir
+  el codigo que funcione
+

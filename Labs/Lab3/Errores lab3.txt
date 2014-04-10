@@ -1,0 +1,11 @@
+Errores en metodo Add
+
+- error 1: No aumentaba el size cuando se insertaba el primer item
+- error 2: En la actualización de los subtree_size aumentaba el size del nuevo nodo
+- error 3: ???
+
+Errores en metodo Select
+
+- error 1: Comparaba pos con 0 en vez de con el subtreesize del nodo izquierdo del nodo actual
+- error 2: El calculo de pos debe ir primero que la asignacion del nuevo cur
+- error 3: Al calcular pos se debe sumar 1 para no obviar el nodo que se deja atras
